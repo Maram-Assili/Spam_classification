@@ -1,4 +1,4 @@
-## Classification des Messages Spam et Non-Spam
+# Classification des Messages Spam et Non-Spam
 ## Description du Projet
 Ce projet vise à développer un système de classification automatisé capable d'identifier et de filtrer les messages électroniques indésirables, communément appelés "spams". À l'ère numérique, la gestion des courriels est cruciale, et les spams représentent un défi majeur pour les utilisateurs et les entreprises. En utilisant des techniques d'apprentissage automatique et des modèles de traitement du langage naturel (NLP) tels que BERT (Bidirectional Encoder Representations from Transformers), nous cherchons à améliorer la précision et l'efficacité des filtres anti-spam.
 
